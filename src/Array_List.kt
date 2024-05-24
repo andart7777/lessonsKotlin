@@ -4,6 +4,10 @@ fun test(){
     println("hello")
 }
 
+fun test2(){
+    println("hello")
+}
+
 
 fun main() {
 
