@@ -1,14 +1,5 @@
 // Урок https://youtu.be/7O3ivzemi1s?si=zJ64-YZWfE-ZwlHb
 
-fun test(){
-    println("hello")
-}
-
-fun test2(){
-    println("hello")
-}
-
-
 fun main() {
 
     /* МАССИВЫ - ArrayOf
